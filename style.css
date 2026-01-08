@@ -190,6 +190,12 @@ body {
 
 @media (max-width:768px) {
 
+    .logo{
+        display:none;
+    }
+    .text1{
+        display:none;
+    }
     .navbar ul {
         gap: 18px;
     }
