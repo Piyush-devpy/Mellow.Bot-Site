@@ -14,7 +14,7 @@ This website serves as the frontend interface for the Mellow Music Bot, providin
 - Learn how to use the bot  
 
 The bot's backend and core functionality are available here:  
-**Music-Mellow-bot** →
+**Music-Mellow-bot** →https://github.com/Piyush-devpy/Music-Bot-Mellow
 
 ---
 
